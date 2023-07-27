@@ -2,9 +2,9 @@
 DroneKML Application Built With Material UI, React.js, Flask
 
 ## How Does It Work
-1. Upload a `.srt`, `.kmz`, and a `.mp4` file
+1. Upload a `.srt`, `.kmz`, and a `.mp4` File
 2. Video Will Be Created and Then Displayed
-3. There Will Be A Link Created To Download The `.mp4` video
+3.  There Will Be A Link To Download The `.mp4` video
 
 ## Potential New Features
 1. Integrate SQLite to Create User Profiles
